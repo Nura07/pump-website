@@ -1,0 +1,109 @@
+/* Header Style Start here */
+body{
+  font-family: 'Archivo Narrow', sans-serif;
+}
+.nav-bg{
+    background-color: #025f79;
+    
+}
+.navbar-nav .nav-item .nav-link{
+    color: white;
+    font-size:  20px;
+}
+.navbar-nav .nav-item .nav-link:hover{
+    background-color: white;
+    color: #025f79;
+    transition: all .5s ease 0;
+}
+/* Header Style End here */
+/* Banner section style start here */
+.slide{
+    width: 800px;
+    height: auto;
+    margin-bottom: 30px;
+}
+.card-text{
+  font-size: 20px;
+}
+/* Banner section style End here */
+/* Animation Heading */
+.heading-1{
+    border-radius: 10px;
+  }
+.card:hover{
+    box-shadow: 0px 1px 11px 2px;
+}
+/* Footer Style start here */
+.footer{
+  border-top: 2px solid black;
+  margin-top: 20px;
+  background-color:#025f79;
+  color: white;
+}
+.icons-1{
+ font-size: 26px;
+ text-align: center;
+ margin-top: 50px;
+ padding-bottom: 20px;
+}
+.bi
+{
+  padding-left: 20px;
+
+}
+.bi:hover{
+  color: black;
+}
+/* Footer Style End here */
+/*about section CSS*/
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+.section{
+  margin-top: 50px;
+}
+.feature{
+  
+  margin: 8px;
+  width: 100%;
+  border: 1px solid #e5e5e5;
+  padding: 30px;
+  position: relative;
+  text-align: center;
+}
+.feature p{
+  font-size: 20px;
+}
+.feature:hover{
+  box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.2);
+}
+.vision-mission-section{
+  margin-top: 50px;
+}
+.about-content p{
+  font-size: 20px;
+}
+/* Product  Style start here */
+.product-content p{
+  font-size: 20px;
+  
+}
+/* Contact style start here */
+.nav-tabs{
+  border: none;
+  margin-bottom: 20px;
+}
+
+.address-content{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 20px;
+
+}
+.address-content a{
+  text-decoration: none;
+  
+}
